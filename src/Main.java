@@ -14,10 +14,11 @@ public class Main {
         /*int[] num=new int[]{1,5,3,4,2};
         BuildArrayFromPermutation.buildArray(num);*/
 
-        String[] operations={"x++","x--","++x"};
-        int total=FinalValueAfterOperations.finalValueAfterOperations(operations);
+        /*String[] operations={"x++","x--","++x"};
+        int total=FinalValueAfterOperations.finalValueAfterOperations(operations);*/
 
-
+        char[] c={'h','e','l','l','o'};
+        ReverseString.reverseString(c);
 
 
 
