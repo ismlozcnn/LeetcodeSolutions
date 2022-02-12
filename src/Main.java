@@ -17,8 +17,10 @@ public class Main {
         /*String[] operations={"x++","x--","++x"};
         int total=FinalValueAfterOperations.finalValueAfterOperations(operations);*/
 
-        char[] c={'h','e','l','l','o'};
-        ReverseString.reverseString(c);
+        /*char[] c={'h','e','l','l','o'};
+        ReverseString.reverseString(c);*/
+
+        SingleNumber.singleNumber(new int[]{2,2,1});
 
 
 
