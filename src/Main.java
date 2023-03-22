@@ -20,7 +20,10 @@ public class Main {
         /*char[] c={'h','e','l','l','o'};
         ReverseString.reverseString(c);*/
 
-        SingleNumber.singleNumber(new int[]{2,2,1});
+        /*SingleNumber.singleNumber(new int[]{2,2,1});
+
+        ConvertTemperature.convertTemperature(270.30);*/
+
 
 
 
