@@ -24,6 +24,8 @@ public class Main {
 
         ConvertTemperature.convertTemperature(270.30);*/
 
+        System.out.println(ContainsDuplicate.containsDuplicate(new int[]{1,1,2}));
+
 
 
 
