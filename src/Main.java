@@ -28,8 +28,9 @@ public class Main {
 
         RemoveDuplicates.removeDuplicates(new int[]{1,1,2});*/
 
+        RotateArray.rotate(new int[]{1,2,3,4,5,6,7},3);
 
-
+        LeftRightDifferences.leftRigthDifference(new int[]{10,4,8,3});
 
     }
 
