@@ -32,7 +32,13 @@ public class Main {
 
         LeftRightDifferences.leftRigthDifference(new int[]{10,4,8,3});*/
 
-        System.out.println(FizzBuzz.fizzBuzz(5));
+        /*System.out.println(FizzBuzz.fizzBuzz(5));
+
+        System.out.println(TwoSum.twoSum(new int[]{3,2,4},6));*/
+
+        //System.out.println(PlusOne.plusOne(new int[]{9,8,7,6,5,4,3,2,1,0}));
+
+        DoubleReversal.isSameAfterReversals(1800);
 
     }
 
