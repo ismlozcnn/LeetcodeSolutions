@@ -36,9 +36,14 @@ public class Main {
 
         System.out.println(TwoSum.twoSum(new int[]{3,2,4},6));*/
 
-        //System.out.println(PlusOne.plusOne(new int[]{9,8,7,6,5,4,3,2,1,0}));
+        /*System.out.println(PlusOne.plusOne(new int[]{9,8,7,6,5,4,3,2,1,0}));
 
-        DoubleReversal.isSameAfterReversals(1800);
+        DoubleReversal.isSameAfterReversals(1800);*/
+
+        int[] total=RunningSumOfArray.runningSum(new int[]{1,2,3,4,5});
+        int[][] accounts= { {1,2,3},{3,2,1}};
+        RichestCustomerWealth.maximumWealth(accounts);
+
 
     }
 
