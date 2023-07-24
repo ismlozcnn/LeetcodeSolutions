@@ -4,12 +4,11 @@ public class Main {
 
     public static void main(String[] args) throws IOException {
 
-        /*ReverseInteger.reverse(154);*/
+        /*ReverseInteger.reverse(154);
+        ValidParentheses.isValid("()");*/
 
         /*String[] str={"flower","flow","flight"};
         LongestCommonPrefix.longestCommonPrefix(str);*/
-
-        /*ValidParentheses.isValid("()");*/
 
         /*int[] num=new int[]{1,5,3,4,2};
         BuildArrayFromPermutation.buildArray(num);*/
@@ -40,9 +39,20 @@ public class Main {
 
         DoubleReversal.isSameAfterReversals(1800);*/
 
-        int[] total=RunningSumOfArray.runningSum(new int[]{1,2,3,4,5});
+        /*int[] total=RunningSumOfArray.runningSum(new int[]{1,2,3,4,5});
         int[][] accounts= { {1,2,3},{3,2,1}};
-        RichestCustomerWealth.maximumWealth(accounts);
+        RichestCustomerWealth.maximumWealth(accounts);*/
+
+        /*RansomNote.canConstruct("aa","aab");
+        RansomNote.canConstruct("aa","ab");*/
+
+        /*RansomNote.canConstruct("fihjjjjei","hjibagacbhadfaefdjaeaebgi");
+
+        System.out.println(MaxConsecutiveOnes.findMaxConsecutiveOnes(new int[]{1,0,1,1,0,1}));
+        System.out.println(MaxConsecutiveOnes.findMaxConsecutiveOnes(new int[]{1,1,0,1,1,1}));*/
+
+        System.out.println(EvenDigits.findNumbers(new int[]{580,317,640,957,718,764}));
+
 
 
     }
