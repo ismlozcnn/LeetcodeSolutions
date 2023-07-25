@@ -53,6 +53,8 @@ public class Main {
 
         System.out.println(EvenDigits.findNumbers(new int[]{580,317,640,957,718,764}));
 
+        SquareSortedArray.sortedSquares(new int[]{-4,-1,0,3,10});
+
 
 
     }
