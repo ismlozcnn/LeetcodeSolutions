@@ -51,9 +51,11 @@ public class Main {
         System.out.println(MaxConsecutiveOnes.findMaxConsecutiveOnes(new int[]{1,0,1,1,0,1}));
         System.out.println(MaxConsecutiveOnes.findMaxConsecutiveOnes(new int[]{1,1,0,1,1,1}));*/
 
-        System.out.println(EvenDigits.findNumbers(new int[]{580,317,640,957,718,764}));
+        /*System.out.println(EvenDigits.findNumbers(new int[]{580,317,640,957,718,764}));
 
-        SquareSortedArray.sortedSquares(new int[]{-4,-1,0,3,10});
+        SquareSortedArray.sortedSquares(new int[]{-4,-1,0,3,10});*/
+
+        DuplicateZeros.duplicateZeros(new int[]{0,0,0,0,0,0,0});
 
 
 
