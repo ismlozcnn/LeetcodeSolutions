@@ -55,7 +55,11 @@ public class Main {
 
         SquareSortedArray.sortedSquares(new int[]{-4,-1,0,3,10});*/
 
-        DuplicateZeros.duplicateZeros(new int[]{0,0,0,0,0,0,0});
+        //DuplicateZeros.duplicateZeros(new int[]{0,0,0,0,0,0,0});
+
+        RemoveElement.removeElement(new int[]{0,1,2,2,3,0,4,2},2);
+
+
 
 
 
