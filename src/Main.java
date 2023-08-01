@@ -55,9 +55,13 @@ public class Main {
 
         SquareSortedArray.sortedSquares(new int[]{-4,-1,0,3,10});*/
 
-        //DuplicateZeros.duplicateZeros(new int[]{0,0,0,0,0,0,0});
+        /*DuplicateZeros.duplicateZeros(new int[]{0,0,0,0,0,0,0});
 
-        RemoveElement.removeElement(new int[]{0,1,2,2,3,0,4,2},2);
+        RemoveElement.removeElement(new int[]{0,1,2,2,3,0,4,2},2);*/
+
+        DoubleExist.checkIfExist(new int[]{10,2,5,3});
+        ValidMountainArray.validMountainArray(new int[]{9,8,7,6,5,4,3,2,1,0});
+
 
 
 
