@@ -59,9 +59,14 @@ public class Main {
 
         RemoveElement.removeElement(new int[]{0,1,2,2,3,0,4,2},2);*/
 
-        DoubleExist.checkIfExist(new int[]{10,2,5,3});
-        ValidMountainArray.validMountainArray(new int[]{9,8,7,6,5,4,3,2,1,0});
+        /*DoubleExist.checkIfExist(new int[]{10,2,5,3});
+        ValidMountainArray.validMountainArray(new int[]{9,8,7,6,5,4,3,2,1,0});*/
 
+        /*GreatestElementsOnRightSide.replaceElements(new int[]{57010,40840,69871,14425,70605});
+
+        MoveZeroes.moveZeroes(new int[]{0,1,0,3,12});*/
+
+        MaximumSumExactlyKElements.maximizeSum(new int[]{1,2,3,4,5},3);
 
 
 
