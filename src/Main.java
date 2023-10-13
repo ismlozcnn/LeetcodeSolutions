@@ -1,3 +1,5 @@
+import test.java.unittest.SortArrayByParity;
+
 import java.io.IOException;
 
 public class Main {
@@ -64,9 +66,11 @@ public class Main {
 
         /*GreatestElementsOnRightSide.replaceElements(new int[]{57010,40840,69871,14425,70605});
 
-        MaximumSumExactlyKElements.maximizeSum(new int[]{1,2,3,4,5},3);*/
+        MaximumSumExactlyKElements.maximizeSum(new int[]{1,2,3,4,5},3);
 
-        MoveZeroes.moveZeroes(new int[]{0,1,0,3,12});
+        MoveZeroes.moveZeroes(new int[]{0,1,0,3,12});*/
+
+        SortArrayByParity.sortArrayByParity(new int[]{3,2,1,4});
 
 
 
