@@ -1,5 +1,3 @@
-import test.java.unittest.SortArrayByParity;
-
 import java.io.IOException;
 
 public class Main {
@@ -70,7 +68,9 @@ public class Main {
 
         MoveZeroes.moveZeroes(new int[]{0,1,0,3,12});*/
 
-        SortArrayByParity.sortArrayByParity(new int[]{3,2,1,4});
+        //SortArrayByParity.sortArrayByParity(new int[]{3,2,1,4});
+
+        HeightChecker.heightChecker(new int[]{3,2,1,4} );
 
 
 

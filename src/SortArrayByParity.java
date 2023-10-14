@@ -1,5 +1,3 @@
-package test.java.unittest;
-
 public class SortArrayByParity {
 
     public static int[] sortArrayByParity(int[] nums) {
