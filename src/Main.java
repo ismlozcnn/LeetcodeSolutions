@@ -68,9 +68,19 @@ public class Main {
 
         MoveZeroes.moveZeroes(new int[]{0,1,0,3,12});*/
 
-        //SortArrayByParity.sortArrayByParity(new int[]{3,2,1,4});
+        /*SortArrayByParity.sortArrayByParity(new int[]{3,2,1,4});
 
-        HeightChecker.heightChecker(new int[]{3,2,1,4} );
+        HeightChecker.heightChecker(new int[]{3,2,1,4} );*/
+
+        //ThirdMaximumNumber.thirdMax(new int[]{1,1,2});
+
+        /*MergeSortedArray.merge(new int[]{1,2,3,0,0,0},3,new int[]{2,5,6},3);
+        MergeSortedArray.merge(new int[]{0},0,new int[]{1},1);
+        MergeSortedArray.merge(new int[]{1,0},1,new int[]{2},1);*/
+
+        //MergeStringsAlternately.mergeAlternately("abc","pqr");
+        MergeStringsAlternately.mergeAlternately("ab","pqrs");
+
 
 
 
